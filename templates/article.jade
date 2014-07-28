@@ -1,0 +1,25 @@
+
+extends layout
+
+block append vars
+  - bodyclass = 'article-detail'
+
+block prepend title
+  | #{ page.title + " - "}
+
+block header
+  include author
+  header.hero(style='background-image: url(' + page.metadata.header +')')
+    h1= page.title
+
+block content
+  div.container
+    article.article
+      section.content!= typogr(page.html).typogrify()
+
+block prepend footer
+  div.container
+    div.nav
+    a(href=contents.index.url).btn.btn-primary « Full blog
+
+

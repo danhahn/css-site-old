@@ -1,0 +1,36 @@
+extends layout
+
+block content
+  header.hero(style='background-image: url(/images/homepage.jpg)')
+    div.container
+      div.homepage
+        !=contents['intro.md'].html
+  include author
+  div.container
+    div.row
+    each article in articles
+      div.col-md-4
+        article.article.intro
+          header
+            p.date
+              span= moment.utc(article.date).format('DD. MMMM YYYY')
+            h2
+              a(href=article.url)= article.title
+          section.content
+            | !{ typogr(article.intro).typogrify() }
+            if article.hasMore
+              p.more
+                a(href=article.url).btn.btn-primary more
+
+block prepend footer
+  div.container
+    div.nav
+      if prevPage
+        a.btn.btn-primary(href=prevPage.url) « Newer
+      else
+        a.btn.btn-primary(href='/archive.html') « Archives
+      if nextPage
+        a.btn.btn-primary(href=nextPage.url) Next page »
+
+
+

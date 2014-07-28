@@ -1,0 +1,22 @@
+---
+title: History
+date: 2014-07-28
+template: article.jade
+header: /images/history.jpg
+---
+
+The 13-story, brown brick and terra cotta office building with a ground-floor theater was designed by architect Herbert J. Krapp.
+
+<span class="more"></span>
+
+It was built by Arthur Hammerstein between 1925 and 1927, and was named Hammerstein's Theater after his father, Oscar Hammerstein I. The original neo-Gothic interior contained pointed-arch stained-glass windows with scenes from the elder Hammerstein's operas; during a 1993 renovation, these windows were removed and stored by CBS in an arrangement with the New York City Landmarks Preservation Commission. Its first production was the three-hour musical Golden Dawn, the second male lead of which was Cary Grant, then still using his birth name, Archie Leach. Arthur Hammerstein went bankrupt in 1931, and lost ownership of the building.
+
+It later went by the name Manhattan Theater, Billy Rose's Music Hall, and the Manhattan once again. In the 1930s, it became a nightclub. After CBS obtained a long-term lease on the property, the radio network began broadcasting from there in 1936, moving in broadcast facilities it had leased at NBC Studios in Radio City. Architect William Lescaze renovated the interior, keeping nearly all of the Krapp design but covering many walls with smooth white panels, his work earning praise from the magazine Architectural Forum. The debut broadcast was the Major Bowes Amateur Hour. The theater had various names during the network's tenancy, including Radio Theater #3 and the CBS Radio Playhouse. It was converted for television in 1950, when it became CBS-TV Studio 50. In the early and mid-Fifties, the theater played host to many of the live telecasts of The Jackie Gleason Show.
+
+Newspaper columnist and impresario Ed Sullivan, who had started hosting his variety show Toast of the Town, soon renamed The Ed Sullivan Show, from the Maxine Elliott Theatre (CBS Studio 51) on West 39th Street in 1948, moved to Studio 50 a few years later. The theater was renamed for Sullivan at the beginning of the 1967–68 season.
+
+In the 1960s, Studio 50 was one of CBS' busiest stages, not only for Sullivan's program but also for The Merv Griffin Show, as well as several game shows. In 1965, Studio 50 was converted to color, and the first color episode of The Ed Sullivan Show originated from the theater on October 31, 1965. (The program originated from CBS Television City in color for the previous six weeks while the color equipment was installed. One earlier color episode of the program originated from Studio 72 at Broadway and 81st on August 22, 1954.) What's My Line?, To Tell the Truth and Password also called the studio home after CBS began broadcasting regularly in color; previously, they had been taped around the corner at CBS-TV Studio 52, which later became the disco Studio 54. The first episode of regular color telecasts of What's My Line? was broadcast live on September 11, 1966.[citation needed] Line and Truth remained at Studio 50 even after they moved from CBS to first-run syndication in the late 1960s and early 1970s. The programs eventually moved to NBC's Radio City Studios at Rockefeller Center.[citation needed]
+
+The Ed Sullivan Theater was also the first home for The $10,000 Pyramid, with its huge end-game board set at the rear of the stage, in 1973. Other short-lived game shows produced at the Ed included Musical Chairs with singer Adam Wade (1975), Shoot For The Stars with Geoff Edwards (1977) (which was an NBC show), and Pass the Buck with Bill Cullen (1978).
+
+The CBS lease on the building expired in 1981 and, now a Reeves Entertainment teletape facility, it hosted the sitcom Kate & Allie, which ran from 1984 to 1989 (as it happened, on CBS). In 1990 David Niles/1125 Productions signed onto the lease, with the theater to house his HDTV studio and new Broadway show Dreamtime. On October 17, 1992 an NBC special celebrating Phil Donahue's 25 years on television taped in the theater. In February 1993, during Dreamtime's successful run, CBS bought the building from Winthrop Financial Associates of Boston. Niles was given four weeks to vacate. Due to the economics of moving the show and the lack of a comparable available Broadway theater, Dreamtime closed. The quick sale and vacancy of the building earned the realtor the Henry Hart Rice Achievement Award for the Most Ingenious Deal of the Year for 1993.
